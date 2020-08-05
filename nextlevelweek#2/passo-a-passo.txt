@@ -2,3 +2,10 @@
 2) yarn start
 3) yarn add react-router-dom #instalar o router
 4) yarn add @types/react-router-dom -D
+
+backend
+1) npm init -y
+2) npm i typescript -D
+3) npx tsc --init, para criar o arquivo tsconfig.json file.
+4) npm i ts-node-dev -D, instala uma lib que faz o papel do nodemon
+5) 
