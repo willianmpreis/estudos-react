@@ -8,4 +8,9 @@ backend
 2) npm i typescript -D
 3) npx tsc --init, para criar o arquivo tsconfig.json file.
 4) npm i ts-node-dev -D, instala uma lib que faz o papel do nodemon
-5) 
+
+mobile
+1) expo init mobile
+2) yarn start
+3) expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins #pacote para trabalhar com fontes + fontes abertas do google
+4 ) expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view #Navegação
