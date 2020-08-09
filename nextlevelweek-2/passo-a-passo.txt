@@ -14,3 +14,6 @@ mobile
 2) yarn start
 3) expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins #pacote para trabalhar com fontes + fontes abertas do google
 4 ) expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view #Navegação
+5) expo install @react-native-community/async-storage
+
+#Pesquisar contexto no React para resolver o caso de remoção de favoritos em outra tela. 
